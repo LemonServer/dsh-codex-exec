@@ -1,6 +1,6 @@
 {
     "name":  "dsh-codex-exec",
-    "version":  "0.3.4",
+    "version":  "0.3.6",
     "type":  "module",
     "description":  "Let DSH plan and review while Codex executes: one codex_exec tool over `codex exec --json`, with selectable model, effort and role, plus an in-session selector.",
     "main":  "./lib/index.js",
